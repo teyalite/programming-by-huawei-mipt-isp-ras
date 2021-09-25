@@ -78,22 +78,10 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/abdoulkaderhaidara/CLionProjects/QuadraticEquation/Coefficients.h">
-			<Option target="QuadraticEquation"/>
-		</Unit>
 		<Unit filename="/Users/abdoulkaderhaidara/CLionProjects/QuadraticEquation/Compare.c">
 			<Option target="QuadraticEquation"/>
 		</Unit>
 		<Unit filename="/Users/abdoulkaderhaidara/CLionProjects/QuadraticEquation/Compare.h">
-			<Option target="QuadraticEquation"/>
-		</Unit>
-		<Unit filename="/Users/abdoulkaderhaidara/CLionProjects/QuadraticEquation/Discriminant.h">
-			<Option target="QuadraticEquation"/>
-		</Unit>
-		<Unit filename="/Users/abdoulkaderhaidara/CLionProjects/QuadraticEquation/RootType.h">
-			<Option target="QuadraticEquation"/>
-		</Unit>
-		<Unit filename="/Users/abdoulkaderhaidara/CLionProjects/QuadraticEquation/Solution.h">
 			<Option target="QuadraticEquation"/>
 		</Unit>
 		<Unit filename="/Users/abdoulkaderhaidara/CLionProjects/QuadraticEquation/SolveEquation.c">

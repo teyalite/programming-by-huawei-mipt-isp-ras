@@ -3,4 +3,4 @@ project(QuadraticEquation C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(QuadraticEquation main.c SolveEquation.c SolveEquation.h Coefficients.h Discriminant.h Compare.c Compare.h Solution.h RootType.h Test.c Test.h)
+add_executable(QuadraticEquation main.c SolveEquation.c SolveEquation.h Compare.c Compare.h Test.c Test.h)
